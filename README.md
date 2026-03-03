@@ -1,12 +1,5 @@
 # Amber Prices for Home Assistant <!-- omit in toc -->
 
-[![GitHub Release][releases-shield]][releases]
-[![GitHub Activity][commits-shield]][commits]
-[![Downloads][download-latest-shield]]()
-[![HACS Installs][hacs-installs-shield]]()
-[![License][license-shield]](LICENSE)
-[![hacs][hacsbadge]][hacs]
-
 This integration is a replacement for the [Amber Electric](https://www.home-assistant.io/integrations/amberelectric) integration in Home Assistant.
 It extends the functionality with:
 
