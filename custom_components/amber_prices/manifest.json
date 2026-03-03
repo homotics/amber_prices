@@ -1,0 +1,13 @@
+{
+  "domain": "amber_prices",
+  "name": "Amber Prices",
+  "codeowners": ["@homotics"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.example.com",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "loggers": ["amber_prices"],
+  "requirements": ["amberelectric==2.0.12"],
+  "version": "0.1.0"
+}

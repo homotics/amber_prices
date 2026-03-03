@@ -1,0 +1,2 @@
+homeassistant
+amberelectric==2.0.12
